@@ -15,3 +15,8 @@ As an individual, I will give my 100% to this club. I will complete every work t
 d. Do you have any feedback for the selection process?
 
 The Tasks are a bit difficult for people who come from no coding background.
+
+
+ABOUT MY TASKS
+
+One of the most difficlt tasks I have been assigned with in computer field. I have try my level best to complete them I couldn't .But I learnt how to approach new problems and languages and several ways to overcome errors.
