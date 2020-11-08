@@ -1,9 +1,8 @@
-// This piece of code is written by Anurag Sahu
-// Code for sending a text to someone on whatsapp via Whatsapp web multiple time
+// Code for sending a text to someone on Telegram via Telegram web multiple time
 
 // Steps to do it
-// 1. Open Whatsapp web on your browser Chrome (https://web.whatsapp.com/)
-// 2. Scan the QR Code
+// 1. Open Telegram web on your browser Chrome (https://web.telegram.org/)
+// 2. Login into your account
 // 3. Select the person you want to send the text
 // 4. press clt + shift + j
 // 5. In developer Console paste the code
