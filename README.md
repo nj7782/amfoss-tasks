@@ -13,7 +13,7 @@ This is Jitin, fresher at Amrita School of Engineering (ELC 2020)
 | [Task 09](https://github.com/nj7782/amfoss-tasks/tree/main/Task%209) | Spammer_Spaghetti |
 | [Task 10](https://github.com/nj7782/amfoss-tasks/tree/main/Task%2010) | CS50  |
 | [Task 11](https://github.com/nj7782/amfoss-tasks/tree/main/Task%2011) | Poster Design |  
-
+| [Task 14](https://github.com/nj7782/amfoss-tasks/tree/main/Task%2014) | Bandit | 
 
 
 
