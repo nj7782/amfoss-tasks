@@ -1,1 +1,3 @@
-I just copied the script and used the debug compiler and found that there are some cosole missing from the script I corrected them. I had problem with name and console I just googled someone has asked similar question in w3schools. After I corrected it started working.
+# Debugging Derbies
+
+I used the debug compiler and found that there are some cosole missing from the script and some syntax errors too I corrected them. 
