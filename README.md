@@ -4,7 +4,7 @@ This is Jitin, fresher at Amrita School of Engineering (ELC 2020)
 
 ## **Table of Contents**
 
-|Task|                                                                   |Description|
+|**Task**                                                               |                                                                   |**Description**|
 -------------                                                            -------------
 |[Task - 00 ](https://github.com/nj7782/amfoss-tasks/tree/main/Task%201)|Installing Ubuntu|
 
