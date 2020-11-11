@@ -1,3 +1,8 @@
+# BANDIT
+
+## I completed this task on windows. I installed Putty configration and used the commands mentioned in the website
+
+
 **Username**: bandit0
 
 **Password**: bandit0**
