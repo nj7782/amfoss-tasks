@@ -1,1 +1,3 @@
-I didn't get exact script what I was looking for I got a script to spam whatsapp. So I made little changes to work on telegram.
+# Spammer_Spaghetti
+
+I took refrence from a Youtube Video to spam messages on whatsapp and I changed little bit to work on Telegram.
