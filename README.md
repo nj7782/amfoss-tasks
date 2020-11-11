@@ -40,7 +40,7 @@ The Tasks are a bit difficult for people who come from no coding background.But 
 
 ## ABOUT MY TASKS
 
-One of the most difficult tasks I have been assigned with in computer field.I have tried my level best to complete them I couldn't.But I learnt how to approach new problems and languages and several ways to overcome errors.Whenever I thought "Oh God I couldn't complete more" some new ideas use to pop up in my mind.On a final note I would like to thank my mentors **Yash Khare** and **Soumi Chatterjee** for helping me in doing the task. I have done my level best in doing these tasks it's up to you guys to select me or not.Also please excuse if there are any grammatical mistakes. 
+One of the most difficult tasks I have been assigned with in computer field.I have tried my level best to complete them I couldn't.But I learnt how to approach new problems and languages and several ways to overcome errors.Whenever I thought "Oh God I couldn't complete more" some new ideas use to pop up in my mind.On a final note I would like to thank my mentors **Yash Khare** and **Soumi Chatterjee** for helping me in doing the tasks. I have done my level best in doing these tasks it's up to you guys to select me or not.Also please excuse if there are any grammatical mistakes. 
 **Thank You**
 
 
