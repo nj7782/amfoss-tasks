@@ -1,3 +1,17 @@
+# **amFOSS tasks - Jitin N**
+
+This is Jitin, fresher at Amrita School of Engineering (ELC 2020)
+
+## **Table of Contents**
+
+|Task|                                                                   |Description|
+-------------                                                            -------------
+|[Task - 00 ](https://github.com/nj7782/amfoss-tasks/tree/main/Task%201)|Installing Ubuntu|
+
+
+
+
+
 a. Why must we choose you?
 
 Even though I am a fresher, I assure you that I will give my best and work to my full potential so that I can contribute as much as I can towards the growth and welfare of this club.
