@@ -7,7 +7,7 @@ This is Jitin, fresher at Amrita School of Engineering (ELC 2020)
 | Task | Description |
 | --- | --- |
 | <a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-00">Task-00</a> | Installing Ubuntu |
-| <https://github.com/nj7782/amfoss-tasks/tree/main/Task%201> | Script to star all repos of amfoss |
+| <https://github.com/nj7782/amfoss-tasks/tree/main/Task%201>Task-01</a> | Script to star all repos of amfoss |
 | <a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-02">Task-02</a> | Codeforces and Hackerrank problems |
 | <a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-03">Task-03</a> | Google Scraping using Ruby|
 | <a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-05">Task-05</a> | Get it using JavaScript  |
