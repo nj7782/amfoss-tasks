@@ -20,7 +20,7 @@ This is Jitin, fresher at Amrita School of Engineering (ELC 2020)
 
 ## Who'me?
 
-I'm Jitin, from Bhimavaram,Andhrapradesh. My answer to why I joined Amrita is after screwing up Jee-Main I have only two options left CSE at VIT or ELC at Amrita. When I stated to reasearch on quora I got to know about this club and joined in Amrita without any second thought. I don't have any coding experience neither I don't know much about computer. I started everything from scratch and learnt everything with the help of google and youtube.
+I'm Jitin, from Bhimavaram,Andhrapradesh. My answer to why I joined Amrita is after screwing up Jee-Main I have only two options left CSE at VIT or ELC at Amrita. When I started to reasearch on quora I got to know about this club and joined in Amrita without any second thought. I don't have any coding experience neither I don't know much about computer. I started everything from scratch and learnt everything with the help of google and youtube.
 
 
 ## ABOUT MY TASKS
