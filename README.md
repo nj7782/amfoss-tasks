@@ -6,7 +6,7 @@ This is Jitin, fresher at Amrita School of Engineering (ELC 2020)
 
 | Task |     Description |
 | --- | --- |
-| [Task 00](https://github.com/nj7782/amfoss-tasks/tree/main/Task%201)  | Installing Ubuntu |
+| [Task 00](https://github.com/nj7782/amfoss-tasks/tree/main/Task%200)  | Installing Ubuntu |
 | [Task 01](https://github.com/nj7782/amfoss-tasks/tree/main/Task%201)   | Script to star all repos of amfoss |
 | [Task 02](https://github.com/nj7782/amfoss-tasks/tree/main/Task%201)   | Nick name in IRC Freenode |
 | [Task 04](https://github.com/nj7782/amfoss-tasks/tree/main/Task%204)  | Debugging Derbies |
