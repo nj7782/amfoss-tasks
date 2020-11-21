@@ -25,7 +25,7 @@ I'm Jitin, from Bhimavaram,Andhrapradesh. My answer to why I joined Amrita is af
 
 ## ABOUT MY TASKS
 
-One of the most difficult tasks I have been assigned with in computer field. I have tried my level best to complete them but I couldn't.But I learnt how to approach new problems and languages and several ways to overcome errors. Whenever I thought "Oh God I couldn't complete more" some new ideas use to pop up in my mind.On a final note I would like to thank my mentors **Yash Khare** and **Soumi Chatterjee** for helping me in doing the tasks. I have done my level best in doing these tasks but it's up to you guys to select me or not. Also please excuse if there are any grammatical mistakes. 
+One of the most difficult tasks I have been assigned with in computer field. I have tried my level best to complete them but I couldn't. But I learnt how to approach new problems and languages and several ways to overcome errors. Whenever I thought "Oh God I couldn't complete more" some new ideas use to pop up in my mind. On a final note I would like to thank my mentors **Yash Khare** and **Soumi Chatterjee** for helping me in doing the tasks. please excuse if there are any mistakes. 
 **Thank You**
 
 
