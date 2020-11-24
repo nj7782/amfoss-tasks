@@ -1,4 +1,4 @@
-//spam message the chats with thirugram.js 
+//spam message the chats with telegram.js 
 //open up telegram web and go to the chat you want to spam 
 //open console ( Ctrl + Shift + J )
 //execute the code 
@@ -16,4 +16,3 @@ var timer = setInterval(function(){
 	if( i % notifyInterval == 0)
 	console.log(i + ' MESSAGES SENT');
 } , interval * 1000 ) ;
-//BTW , this is how I sent 10,000 Happy birthday wishes to my friend.
