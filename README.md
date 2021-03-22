@@ -10,7 +10,7 @@ This is Jitin, fresher at Amrita School of Engineering (ELC 2020)
 | [Task 01](https://github.com/nj7782/amfoss-tasks/tree/main/Task%201)   | Script to star all repos of amfoss |
 | [Task 02](https://github.com/nj7782/amfoss-tasks/tree/main/Task%201)   | Nick name in IRC Freenode |
 | [Task 04](https://github.com/nj7782/amfoss-tasks/tree/main/Task%204)  | Debugging Derbies |
-| [Task 6](https://github.com/nj7782/amfoss-tasks/tree/main/Task%206)   | Geddit  |
+| [Task 06](https://github.com/nj7782/amfoss-tasks/tree/main/Task%206)   | Geddit  |
 | [Task 09](https://github.com/nj7782/amfoss-tasks/tree/main/Task%209)   | Spammer_Spaghetti |
 | [Task 10](https://github.com/nj7782/amfoss-tasks/tree/main/Task%2010)   | CS50  |
 | [Task 11](https://github.com/nj7782/amfoss-tasks/tree/main/Task%2011)   | Poster Design |  
