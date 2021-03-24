@@ -16,6 +16,7 @@ This is Jitin, fresher at Amrita School of Engineering (ELC 2020)
 | [Task 10](https://github.com/nj7782/amfoss-tasks/tree/main/Task%2010)   | CS50  |
 | [Task 11](https://github.com/nj7782/amfoss-tasks/tree/main/Task%2011)   | Poster Design |  
 | [Task 12](https://github.com/nj7782/amfoss-tasks/tree/main/Task%2012)   | Maths was Fun |
+| [Task 13](https://github.com/nj7782/amfoss-tasks/tree/main/Task%2013) | Circuit Design |
 | [Task 14](https://github.com/nj7782/amfoss-tasks/tree/main/Task%2014)   | Bandit | 
 |                                                                                               |      |
 | [Task 5](https://github.com/nj7782/amfoss-tasks/tree/main/Task%205)   | Rustic Scraper *(pending)*  |
