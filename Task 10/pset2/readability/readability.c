@@ -4,10 +4,10 @@
 #include <ctype.h>
 #include <math.h>
 
-// This program calculates the difficulty of a body of text by assigning it a grade
+
 int main(void)
 {
-    // gets user input about the text
+    
     string text = get_string("Text: \n");
 
     float letters = 0;
