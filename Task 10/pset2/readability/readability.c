@@ -17,17 +17,17 @@ int main(void)
 
     for (int i = 0, n = strlen(text); i < n; i++)
     {
-        // counts the letters using ascii code
+        
         if (text[i] >= 65 && text[i] <= 122)
         {
             letters++;
         }
-        // counts the words by reading spaces
+        
         else if (text[i] == 32 && (text[i - 1] != 33 && text[i - 1] != 46 && text[i - 1] != 63))
         {
             words++;
         }
-        // counts the sentences by finding dots, exclamation marks and interrogatives
+        
         else if (text[i] == 33 || text[i] == 46 || text[i] == 63)
         {
             sentence++;
