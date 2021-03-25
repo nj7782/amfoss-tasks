@@ -1,69 +1,58 @@
-#include <cs50.h>
 #include <stdio.h>
+#include <cs50.h>
 #include <string.h>
 #include <ctype.h>
 #include <math.h>
 #include <stdlib.h>
 
-// This program hides a message using caesar's cypher
-// It takes a positive integer, that we call key, as argument and moves the letters +key positions in the alphabet
+bool is_valid_key(string s);
+
 int main(int argc, string argv[])
 {
-    int key = 0;
-    // convertes the argument of the function into an int if it exists
-    if (argc == 2)
-    {
-        key = atoi(argv[1]);
-    }
-
-    // Takes the module of the key if it's bigger than the alphabet's length
-    if (key >= 26)
-    {
-        key %= 26;
-    }
-
-    // validates user input, it must exist and be a positive integer, otherwise prints a message and return one
-    if (argc != 2 || key <= 0)
+    if (argc != 2 || !is_valid_key(argv[1]))
     {
         printf("Usage: ./caesar key\n");
         return 1;
     }
 
-    // gets message to encrypt from user
-    string text = get_string("plaintext: ");
-
-
-    if (argc == 2)
+    string s = get_string("Plaintext:");
+    printf("ciphertext:");
+    int i = 0;
+    int k = atoi(argv[1]);
+    char ch = s[i];
     {
-        // loop works for every letter in text
-        for (int i = 0, n = strlen(text); i < n; i++)
+
+        for (i = 0; i < strlen(s); i++)
         {
-            // Capital letters
-            if (text[i] >= 65 && text[i] <= 90)
+
+            if (!isalpha(s[i]))
             {
-                // wraps around if the key is too big
-                if (text[i] + key > 90)
-                {
-                    text[i] -= 26;
-                }
-                // moves the letter +key values in the aplphabet
-                text[i] += key;
+                printf("%c", s[i]);
             }
-            // lower case letters
-            else if (text[i] >= 97 && text[i] <= 121)
+
+            else if (s[i] > 'Z') //if its >Z it must be definitely an small number(see ascii table) so subtract 'a' so that we get dist from a.
             {
-                // wraps around if the key is too big
-                if (text[i] + key > 121)
-                {
-                    text[i] -= 26;
-                }
-                // moves the letter +key values in the aplphabet
-                text[i] += key;
+                printf("%c", ((s[i] - 'a' + k) % 26) + 'a');
+            }
+            else
+            {
+                printf("%c", ((s[i] - 'A' + k) % 26) + 'A');
             }
         }
     }
-
-    // prints out encrypted message
-    printf("ciphertext: %s\n", text);
-    return 0;
+    printf("\n");
 }
+
+bool is_valid_key(string(s))
+{
+    for (int i = 0; i < strlen(s); i++)
+    {
+        char ch = s[i];
+        if (!isdigit(ch))
+        {
+            return false;
+        }
+    }
+    return true;
+}
+
