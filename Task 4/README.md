@@ -1,3 +1,3 @@
 # Debugging Derbies
 
-I have checked this program. Except few syntax error the program runs perfectly fine.
+First I ran the program I found some syntax error and functional errors I fixed them and program ran perfectly fine.
