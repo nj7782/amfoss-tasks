@@ -1,4 +1,4 @@
-![Rust](https://img.shields.io/badge/-Rust-orange)
+
 
 **Rustic Scraper**
 
