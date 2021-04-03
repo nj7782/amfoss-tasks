@@ -6,5 +6,5 @@ Compare the input string with 1 and 0 respectively then print 1 if the zero is n
 
 *The D*
 
-Take a variable l which is (n-1)/2 times the number of lines then i wrote some code to increment and decrement respectively
+first I have taken a variable l which is (n-1)/2 times the number of lines then increment and decrement them and reverse the code 
 
