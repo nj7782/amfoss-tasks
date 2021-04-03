@@ -1,2 +1,1 @@
-
-
+Before Starting the task I learnt some basics of Javascript and html. I have set the timer for interval buttons to get triggered. Once the count is reached timer gets cleared and message sent are entered right after the count variable.
