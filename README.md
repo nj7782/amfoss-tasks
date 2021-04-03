@@ -22,8 +22,7 @@ This is Jitin, fresher at Amrita School of Engineering (ELC 2020)
 | [Task 14](https://github.com/nj7782/amfoss-tasks/tree/main/Task%2014)   | Bandit | 
 |  **Pending Task**                                                                   | **Description**     |
 | [Task 7](https://github.com/nj7782/amfoss-tasks/tree/main/Task%207)   | Ubiquitous UI *(pending)*  |
-| [Task 12](https://github.com/nj7782/amfoss-tasks/tree/main/Task%2012)   | Maths was Fun *(pending)* |
-| [Task 15](https://github.com/nj7782/amfoss-tasks/tree/main/Task%2015)   | Project Euler *(pending)* |
+
 
 
 
