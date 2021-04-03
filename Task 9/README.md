@@ -1,1 +1,1 @@
-
+Before I started this task I have seen a related tutorial on yt to get better understanding of this task. I have set a timer for each interval button to get triggereed and once the count is reached the timer gets cleared after the count variable enter the messages that are to be sent.
