@@ -4,7 +4,7 @@ This is Jitin, fresher at Amrita School of Engineering (ELC 2020)
 
 ## **Table of Contents**
 
-| Main Task                 |                            Description                                     |
+| **Main Task**                 |                            **Description**                                     |
 | --- | --- |
 | [Task 00](https://github.com/nj7782/amfoss-tasks/tree/main/Task%200)  | Installing Ubuntu |
 | [Task 01](https://github.com/nj7782/amfoss-tasks/tree/main/Task%201)   | Script to star all repos of amfoss |
@@ -16,11 +16,11 @@ This is Jitin, fresher at Amrita School of Engineering (ELC 2020)
 | [Task 08](https://github.com/nj7782/amfoss-tasks/tree/main/Task%208)   | Sir Perceval’s quest |
 | [Task 09](https://github.com/nj7782/amfoss-tasks/tree/main/Task%209)   | Spammer_Spaghetti |
 | [Task 10](https://github.com/nj7782/amfoss-tasks/tree/main/Task%2010)   | CS50  |
-| Additional Task                 |                            Description                                     |
+| **Additional Task**                 |                            **Description**                                     |
 | [Task 11](https://github.com/nj7782/amfoss-tasks/tree/main/Task%2011)   | Poster Design |  
 | [Task 13](https://github.com/nj7782/amfoss-tasks/tree/main/Task%2013) | Circuit Design |
 | [Task 14](https://github.com/nj7782/amfoss-tasks/tree/main/Task%2014)   | Bandit | 
-|  Pending Task                                                                   | Description     |
+|  **Pending Task**                                                                   | **Description**     |
 | [Task 7](https://github.com/nj7782/amfoss-tasks/tree/main/Task%207)   | Ubiquitous UI *(pending)*  |
 | [Task 12](https://github.com/nj7782/amfoss-tasks/tree/main/Task%2012)   | Maths was Fun *(pending)* |
 | [Task 15](https://github.com/nj7782/amfoss-tasks/tree/main/Task%2015)   | Project Euler *(pending)* |
