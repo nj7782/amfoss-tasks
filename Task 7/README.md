@@ -1,3 +1,3 @@
 **Ubiquitous UI**
 
-Faced problems with installation couldn't complete it.
+Faced problems with the installation couldn't complete it. Will try to do in coming days
