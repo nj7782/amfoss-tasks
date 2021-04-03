@@ -1,3 +1,4 @@
 **Sir Perceval’s quest**
 
-Faced some errors couldn't complete.
+I used request modules to get the information about the organisation
+
