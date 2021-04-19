@@ -31,8 +31,9 @@ func run() (err error) {
 	for _, post := range posts {
 		_, err := client.Post.Upvote(ctx, "t3_"+post.ID)
 		if err != nil {
-			fmt.Println(err)
+			return err
 		}
 	}
+	fmt.Println("Posts have been upvoted successfully")
 	return
 }
