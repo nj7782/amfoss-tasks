@@ -1,4 +1,4 @@
-S:no,Country,Total Cases,Total Deaths,Total Recovered
+#,Country,Total Cases,Total Deaths,Total Recovered
 1,USA,"32,475,043","581,542 ","25,043,463"
 2,India,"15,321,089","180,550 ","13,108,582"
 3,Brazil,"13,977,713","375,049 ","12,460,712"
