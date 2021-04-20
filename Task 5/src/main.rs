@@ -25,7 +25,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
     let mut wtr = Writer::from_path("data.csv")?;
 
-    wtr.write_record(&["#", "Country", "Total Cases", "Total Deaths", "Total Recovered"])?;
+    wtr.write_record(&["S:no", "Country", "Total Cases", "Total Deaths", "Total Recovered"])?;
 
 
     for country in fragment.select(&countries) {
